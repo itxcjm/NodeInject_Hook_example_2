@@ -1,3 +1,5 @@
+# **!!!For personal learning only!!!**
+
 # NodeInject_Hook_example
 A hooking example for NodeInject
 
